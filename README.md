@@ -161,6 +161,6 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 Angie Perez - [Github](https://github.com/#) / [Twitter](https://twitter.com/xiommyperez)
 Daniel Lorenzo - [Github](https://github.com/dlscoccia) / [Twitter](https://twitter.com/dlscoccia)
 
-Second part of Airbnb: Joann Vuong
+4th part of Airbnb clone project: Web dynamic.
 ## License
 Public Domain. No copy write protection.
