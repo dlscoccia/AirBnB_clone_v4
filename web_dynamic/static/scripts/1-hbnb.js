@@ -10,8 +10,9 @@ function docReady (fn) {
   
   const amenityList = [];
   docReady(function () {
-    const myDiv = $('.amenities input');
-    $(myDiv).click(function () {
+    const myInputs = $('.amenities input');
+    $(myInputs).css('margin-right', '10px');
+    $(myInputs).click(function () {
       const name = $(this).attr('data-name');
       // const id = $(this).attr('data-id');
       if ($(this).is(':checked')) {
